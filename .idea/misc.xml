@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/assignments/MOBILE AAPPLICATION DEVELOPMENT_Todo App/bisakha_Todo App/FinalTodoApp/app/src/main/res/layout/activity_login.xml" value="0.11503623188405797" />
+        <entry key="..\:/assignments/MOBILE AAPPLICATION DEVELOPMENT_Todo App/bisakha_Todo App/FinalTodoApp/app/src/main/res/layout/activity_splash.xml" value="0.11503623188405797" />
+        <entry key="..\:/assignments/MOBILE AAPPLICATION DEVELOPMENT_Todo App/bisakha_Todo App/FinalTodoApp/app/src/main/res/layout/fragment_edit_todo.xml" value="0.11503623188405797" />
+        <entry key="..\:/assignments/MOBILE AAPPLICATION DEVELOPMENT_Todo App/bisakha_Todo App/FinalTodoApp/app/src/main/res/layout/list_item_todo.xml" value="0.11503623188405797" />
+        <entry key="..\:/assignments/MOBILE AAPPLICATION DEVELOPMENT_Todo App/swapnil_Todo App/FinalTodoApp/app/src/main/res/layout/activity_login.xml" value="0.15" />
+        <entry key="..\:/assignments/MOBILE AAPPLICATION DEVELOPMENT_Todo App/swapnil_Todo App/FinalTodoApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/assignments/MOBILE AAPPLICATION DEVELOPMENT_Todo App/swapnil_Todo App/FinalTodoApp/app/src/main/res/layout/list_item_todo.xml" value="0.1" />
+        <entry key="..\:/assignments/raju/raju_Todo App/FinalTodoApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/assignments/raju/raju_Todo App/FinalTodoApp/app/src/main/res/drawable/ic_add_new_todo.xml" value="0.2203125" />
+        <entry key="..\:/assignments/raju/raju_Todo App/FinalTodoApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/assignments/raju/raju_Todo App/FinalTodoApp/app/src/main/res/layout/activity_edit_todo.xml" value="0.18" />
+        <entry key="..\:/assignments/raju/raju_Todo App/FinalTodoApp/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/assignments/raju/raju_Todo App/FinalTodoApp/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/assignments/raju/raju_Todo App/FinalTodoApp/app/src/main/res/layout/activity_splash.xml" value="0.18" />
+        <entry key="..\:/assignments/raju/raju_Todo App/FinalTodoApp/app/src/main/res/layout/fragment_edit_todo.xml" value="0.25" />
+        <entry key="..\:/assignments/raju/raju_Todo App/FinalTodoApp/app/src/main/res/layout/fragment_todo_list.xml" value="0.4083333333333333" />
+        <entry key="..\:/assignments/raju/raju_Todo App/FinalTodoApp/app/src/main/res/layout/list_item_todo.xml" value="0.25" />
+        <entry key="..\:/assignments/raju/raju_Todo App/FinalTodoApp/app/src/main/res/menu/main_menu.xml" value="0.25" />
+        <entry key="..\:/raju/raju_Todo App/FinalTodoApp/app/src/main/res/layout/activity_edit_todo.xml" value="0.25416666666666665" />
+        <entry key="..\:/raju/raju_Todo App/FinalTodoApp/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/raju/raju_Todo App/FinalTodoApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/raju/raju_Todo App/FinalTodoApp/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/raju/raju_Todo App/FinalTodoApp/app/src/main/res/layout/fragment_edit_todo.xml" value="0.25416666666666665" />
+        <entry key="..\:/raju/raju_Todo App/FinalTodoApp/app/src/main/res/layout/fragment_todo_list.xml" value="0.4" />
+        <entry key="..\:/raju/raju_Todo App/FinalTodoApp/app/src/main/res/layout/list_item_todo.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
